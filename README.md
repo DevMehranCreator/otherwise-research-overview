@@ -89,7 +89,7 @@ I am seeking technical critique of the evaluation methodology, suitable benchmar
 
 The recording shows the primary Otherwise prototype: its scientific-world view, experiment activity, control-room/scientist panels, and persistent research record. This is a demonstration of the primary prototype, not an integrated Frontier 3D interface. The private engine source and sealed evaluation materials are intentionally not included in this repository.
 
-If the preview image does not appear to visitors, check the file’s Google Drive sharing setting and set **General access → Anyone with the link → Viewer**. I could inspect the video file available in this conversation, but could not independently confirm the Drive link’s access permissions from this connection.
+If the preview image does not appear to visitors, check the file’s Google Drive sharing setting and set **General access → Anyone with the link → Viewer**.
 
 ## Repository boundaries
 
