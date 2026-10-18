@@ -81,7 +81,15 @@ I am seeking technical critique of the evaluation methodology, suitable benchmar
 **Contact:** otherwise532@gmail.com  
 **Maintainer:** Mehran, independent developer
 
-A public demo URL will be added here after the video is hosted and its access settings are verified.
+## Watch the project demo
+
+[![Watch the Otherwise demo]( https://drive.google.com/thumbnail?id=19uXbnbMJ5aixH4LPPKdj9gkZ6Q7oDLCH&sz=w1200 )](https://drive.google.com/file/d/19uXbnbMJ5aixH4LPPKdj9gkZ6Q7oDLCH/view?usp=drive_link)
+
+**[Open the full demo video in Google Drive]( https://drive.google.com/file/d/19uXbnbMJ5aixH4LPPKdj9gkZ6Q7oDLCH/view?usp=drive_link )**
+
+The recording shows the primary Otherwise prototype: its scientific-world view, experiment activity, control-room/scientist panels, and persistent research record. This is a demonstration of the primary prototype, not an integrated Frontier 3D interface. The private engine source and sealed evaluation materials are intentionally not included in this repository.
+
+If the preview image does not appear to visitors, check the file’s Google Drive sharing setting and set **General access → Anyone with the link → Viewer**. I could inspect the video file available in this conversation, but could not independently confirm the Drive link’s access permissions from this connection.
 
 ## Repository boundaries
 
