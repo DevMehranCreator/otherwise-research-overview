@@ -83,9 +83,9 @@ I am seeking technical critique of the evaluation methodology, suitable benchmar
 
 ## Watch the project demo
 
-[![Watch the Otherwise demo]( https://drive.google.com/thumbnail?id=19uXbnbMJ5aixH4LPPKdj9gkZ6Q7oDLCH&sz=w1200 )](https://drive.google.com/file/d/19uXbnbMJ5aixH4LPPKdj9gkZ6Q7oDLCH/view?usp=drive_link)
+[![Watch the Otherwise demo](https://drive.google.com/thumbnail?id=19uXbnbMJ5aixH4LPPKdj9gkZ6Q7oDLCH&sz=w1200)](https://drive.google.com/file/d/19uXbnbMJ5aixH4LPPKdj9gkZ6Q7oDLCH/view?usp=drive_link)
 
-**[Open the full demo video in Google Drive]( https://drive.google.com/file/d/19uXbnbMJ5aixH4LPPKdj9gkZ6Q7oDLCH/view?usp=drive_link )**
+**[Open the full demo video in Google Drive](https://drive.google.com/file/d/19uXbnbMJ5aixH4LPPKdj9gkZ6Q7oDLCH/view?usp=drive_link)**
 
 The recording shows the primary Otherwise prototype: its scientific-world view, experiment activity, control-room/scientist panels, and persistent research record. This is a demonstration of the primary prototype, not an integrated Frontier 3D interface. The private engine source and sealed evaluation materials are intentionally not included in this repository.
 
