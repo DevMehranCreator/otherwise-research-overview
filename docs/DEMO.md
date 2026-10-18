@@ -2,7 +2,7 @@
 
 **Watch the recording:** [Open the Otherwise video in Google Drive](https://drive.google.com/file/d/19uXbnbMJ5aixH4LPPKdj9gkZ6Q7oDLCH/view?usp=drive_link)
 
-![Video preview](../assets/otherwise-mark.svg)
+[![Watch the Otherwise demo](https://drive.google.com/thumbnail?id=19uXbnbMJ5aixH4LPPKdj9gkZ6Q7oDLCH&sz=w1200)](https://drive.google.com/file/d/19uXbnbMJ5aixH4LPPKdj9gkZ6Q7oDLCH/view?usp=drive_link)
 
 The recorded prototype shows the primary Otherwise interface, including its scientific-world view, ongoing experiment activity, control-room/scientist panels, and persistent research record.
 
